@@ -1,5 +1,7 @@
-### Hi there! 👋 
-I'm Saransh Arora I'm a passionate Software Engineer with a knack for ___. I love diving into challenging problems and crafting elegant solutions. 
+### Hi there! 👋 I'm Saransh Arora 
+
+I'm a passionate Software Engineer. I love diving into challenging problems and crafting elegant solutions. 
+...
 🌱 Currently, I'm exploring PeerToPeer Systems , Deeplearning and many more , and hoping to build something incredible one day.
 💼 I'm open to collaborations and new opportunities. 
 📫 You can reach me at :
